@@ -1,6 +1,7 @@
 # 🦆 DuckDB on Streamlit
 A simple and clear example for implement DuckDB + Streamlit. To run the app:
 ```
+pip install -r requirements.txt
 streamlit run duckdb_on_streamlit.py
 ```
 ## Some options for DuckDB analysis
